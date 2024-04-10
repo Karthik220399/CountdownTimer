@@ -1,0 +1,22 @@
+.parentBox{
+    height: 100px;
+    width: 100px;
+    background: linear-gradient(45.8deg, rgb(156, 84, 239) 9.3%, rgb(78, 198, 228) 75.1%);
+    border: none;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+    color: white;
+}
+
+.Timeresp{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+.Time{
+    font-size: 2rem;
+    font-weight: 800;
+}

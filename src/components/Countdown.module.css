@@ -1,0 +1,43 @@
+
+
+.parent{
+    background: linear-gradient(-225deg, rgb(82, 113, 196) 0%, rgb(177, 159, 255) 48%, rgb(236, 161, 254) 100%);
+    height: 100vh;
+    width: 100%vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.header{
+    color: purple;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.inputs{
+    background: transparent;
+    border: 1.5px solid white;
+    border-radius: 4px;
+    padding: 5px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.timeBox{
+    margin: 20px;
+}
+
+.maps{
+    display: flex;
+}
+
+.more{
+    color: purple;
+}
