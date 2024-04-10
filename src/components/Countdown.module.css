@@ -41,3 +41,9 @@
 .more{
     color: purple;
 }
+
+@media screen and (max-width: 552px) {
+    .maps {
+      flex-direction: column;
+    }
+  }

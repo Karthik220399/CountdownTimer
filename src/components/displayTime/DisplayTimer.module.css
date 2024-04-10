@@ -20,3 +20,9 @@
     font-size: 2rem;
     font-weight: 800;
 }
+
+@media screen and (max-width: 552px) {
+    .parentBox {
+      margin-top: 10px;
+    }
+  }
